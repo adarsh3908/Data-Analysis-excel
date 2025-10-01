@@ -1,12 +1,16 @@
 # Data Analysis Portfolio .gitignore
 
 # Large data files (consider using Git LFS for these)
-*.csv
-*.xlsx
-*.xls
+# *.csv
+# *.xlsx
+# *.xls
 *.parquet
 *.db
 *.sqlite
+
+# Allow specific project files
+!data/Coffee\ Shop\ Sales\(Transactions\).csv
+!dashboard/Coffee\ Shop\ Sales.xlsx
 
 # But include small sample datasets
 !**/sample_*
