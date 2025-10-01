@@ -3,6 +3,7 @@
 > **Comprehensive business intelligence analysis of coffee shop performance across multiple locations with advanced Excel analytics**
 
 ![Coffee Shop Dashboard Overview](./images/image1.png)
+*Interactive Excel dashboard showing revenue trends, transaction patterns, and location-based performance metrics*
 
 ## 📋 Executive Summary
 
@@ -15,11 +16,12 @@ This project delivers a complete business intelligence solution for coffee shop 
 - ⏰ **Peak Hours:** Morning rush (7-10 AM) drives maximum transaction volume
 - 📅 **Weekly Patterns:** Monday peaks at 7,200+ transactions, strategic for staffing
 
-![Product Category Analysis](./images/image2.png)
-
 ## 📊 Comprehensive Analysis Results
 
 ### 💰 **Revenue Performance**
+![Revenue and Transaction Analysis](./images/image1.png)
+*Monthly revenue growth visualization showing 105% increase from January to June*
+
 | **Metric** | **Value** | **Insight** |
 |------------|-----------|-------------|
 | **Total Revenue** | $207,440.89 | Strong 6-month performance |
@@ -28,6 +30,9 @@ This project delivers a complete business intelligence solution for coffee shop 
 | **Growth Rate** | 105% (Jan-Jun) | Excellent trajectory |
 
 ### ☕ **Product Category Performance**
+![Product Category Analysis](./images/image2.png)
+*Detailed breakdown of product categories and top 15 revenue-generating items*
+
 - **Coffee:** 18,204 transactions - Revenue leader driving core business
 - **Tea:** 13,912 transactions - Strong secondary category
 - **Bakery:** 7,890 transactions - Profitable complementary sales
@@ -43,6 +48,9 @@ This project delivers a complete business intelligence solution for coffee shop 
 ## 📈 **Business Intelligence Dashboard Features**
 
 ### 🎨 **Interactive Analytics**
+![Dashboard Interactive Features](./images/image1.png)
+*Location filtering and real-time analytics across Astoria, Hell's Kitchen, and Lower Manhattan*
+
 - **Location Filtering:** Dynamic selection between Astoria, Hell's Kitchen, Lower Manhattan
 - **Revenue Tracking:** Month-over-month growth visualization
 - **Time Analysis:** Hour-by-hour and day-of-week transaction patterns
@@ -57,6 +65,9 @@ This project delivers a complete business intelligence solution for coffee shop 
 ## 🎯 **Strategic Operational Insights**
 
 ### ⏰ **Peak Performance Windows**
+![Transaction Timing Analysis](./images/image1.png)
+*Hour-by-hour and day-of-week transaction patterns revealing optimal staffing windows*
+
 - **Morning Rush:** 7-10 AM shows maximum transaction density
 - **Monday Leadership:** Highest weekly volume at 7,200+ transactions
 - **Steady Performance:** Tuesday-Thursday maintain 6,400-6,800 transactions
@@ -70,12 +81,18 @@ This project delivers a complete business intelligence solution for coffee shop 
 ## 🚀 **Data-Driven Business Recommendations**
 
 ### 📈 **Revenue Optimization**
+![Revenue Growth Strategy](./images/image1.png)
+*Revenue trend analysis supporting strategic business recommendations*
+
 1. **Expand Coffee Offerings:** With 18,204 transactions, coffee drives 39% of volume
 2. **Promote Tea Categories:** 13,912 transactions show strong secondary market
 3. **Morning Staffing:** Peak 7-10 AM hours require maximum coverage
 4. **Monday Focus:** Highest weekly volume demands premium service delivery
 
 ### ☕ **Product Strategy**
+![Product Performance Strategy](./images/image2.png)
+*Top product analysis driving inventory and pricing optimization strategies*
+
 1. **Barista Espresso Leadership:** $31,051 revenue justifies premium positioning
 2. **Chai Tea Growth:** $24,008 from 5,066 transactions shows pricing power
 3. **Bakery Expansion:** 7,890 transactions indicate strong cross-sell opportunity
@@ -90,6 +107,9 @@ This project delivers a complete business intelligence solution for coffee shop 
 ## 🛠️ **Technical Implementation**
 
 ### **Advanced Excel Analytics**
+![Technical Dashboard Implementation](./images/image1.png)
+*Advanced Excel techniques including pivot tables, dynamic charts, and interactive filtering*
+
 - **Pivot Table Mastery:** Multi-dimensional data analysis
 - **Dynamic Dashboards:** Interactive filtering and real-time updates
 - **Statistical Analysis:** Trend identification and pattern recognition
@@ -118,6 +138,9 @@ coffee-shop-sales/
 ## 🏆 **Business Impact & ROI**
 
 ### **Quantifiable Results**
+![Business Impact Metrics](./images/image2.png)
+*Comprehensive analysis results showing measurable business impact across all categories*
+
 - **$207,440.89** total revenue analyzed and optimized
 - **46,341** transactions providing deep customer insights  
 - **15** top products identified for strategic focus
