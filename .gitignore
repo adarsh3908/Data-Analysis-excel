@@ -86,9 +86,9 @@ secrets.txt
 *.jpg
 *.jpeg
 *.gif
-!assets/images/
+
 !**/screenshots/
-!coffee-shop-sales/images/
+!**/images/
 
 # Database files
 *.db
