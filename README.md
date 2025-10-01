@@ -7,8 +7,10 @@ Welcome to my data analysis portfolio! This repository showcases my coffee shop 
 ```
 Data-Analysis-Portfolio/
 ├── README.md                    # Main portfolio overview
-├── data/                        # Coffee shop sales data files
-├── dashboard/                   # Excel dashboards and visualizations
+├── coffee-shop-sales/           # Coffee shop sales analysis project
+│   ├── README.md               # Project documentation
+│   ├── data/                   # Transaction data files
+│   └── dashboard/              # Excel dashboards and visualizations
 ├── assets/                      # Shared resources (templates, etc.)
 └── .gitignore                   # Git ignore file
 ```
@@ -19,14 +21,16 @@ Data-Analysis-Portfolio/
 **Tools:** Excel, CSV Analysis  
 **Description:** Comprehensive analysis of coffee shop sales data including transaction patterns, revenue trends, and customer insights.
 
+📂 [View Project](./coffee-shop-sales/)
+
 ### � Project Overview
 
 This project analyzes coffee shop sales data to uncover insights about customer behavior, sales patterns, and business performance. The analysis includes transaction-level data and provides actionable insights for business optimization.
 
 ## 📊 Dataset Description
 
-- **Primary Data:** `data/Coffee Shop Sales(Transactions).csv`
-- **Dashboard:** `dashboard/Coffee Shop Sales.xlsx`
+- **Primary Data:** `coffee-shop-sales/data/Coffee Shop Sales(Transactions).csv`
+- **Dashboard:** `coffee-shop-sales/dashboard/Coffee Shop Sales.xlsx`
 - **Time Period:** [Add specific date range]
 - **Records:** [Add number of transactions]
 
@@ -100,11 +104,13 @@ This project analyzes coffee shop sales data to uncover insights about customer 
 
 ```
 Data-Analysis-Portfolio/
-├── README.md                           # This documentation
-├── data/
-│   └── Coffee Shop Sales(Transactions).csv  # Raw transaction data
-├── dashboard/
-│   └── Coffee Shop Sales.xlsx          # Interactive Excel dashboard
+├── README.md                           # Main portfolio documentation
+├── coffee-shop-sales/                  # Complete project folder
+│   ├── README.md                       # Project-specific documentation
+│   ├── data/
+│   │   └── Coffee Shop Sales(Transactions).csv
+│   └── dashboard/
+│       └── Coffee Shop Sales.xlsx
 └── assets/
     └── project-template.md             # Template for future projects
 ```
