@@ -1,38 +1,46 @@
 # Data Analysis Portfolio
 
-Welcome to my data analysis portfolio! This repository contains various data analysis projects showcasing different techniques, tools, and insights.
+Welcome to my data analysis portfolio! This repository showcases my coffee shop sales analysis project with comprehensive insights and interactive dashboards.
 
 ## 📁 Repository Structure
 
 ```
 Data-Analysis-Portfolio/
-├── README.md                    # This file - main portfolio overview
-├── projects/                    # Individual project folders
-│   ├── coffee-shop-sales-analysis/
-│   │   ├── README.md           # Project-specific documentation
-│   │   ├── data/               # Raw and processed data files
-│   │   ├── dashboard/          # Excel dashboards and visualizations
-│   │   └── analysis/           # Analysis scripts and notebooks
-│   └── [future-projects]/      # Additional projects will be added here
-└── assets/                     # Shared resources (images, templates, etc.)
+├── README.md                    # Main portfolio overview
+├── data/                        # Coffee shop sales data files
+├── dashboard/                   # Excel dashboards and visualizations
+├── assets/                      # Shared resources (templates, etc.)
+└── .gitignore                   # Git ignore file
 ```
 
-## 🚀 Projects
+## 🚀 Coffee Shop Sales Analysis
 
-### 1. Coffee Shop Sales Analysis
 **Status:** ✅ Completed  
-**Tools:** Excel, CSV  
+**Tools:** Excel, CSV Analysis  
 **Description:** Comprehensive analysis of coffee shop sales data including transaction patterns, revenue trends, and customer insights.
 
-📂 [View Project](./projects/coffee-shop-sales-analysis/)
+### � Project Overview
 
----
+This project analyzes coffee shop sales data to uncover insights about customer behavior, sales patterns, and business performance. The analysis includes transaction-level data and provides actionable insights for business optimization.
+
+## 📊 Dataset Description
+
+- **Primary Data:** `data/Coffee Shop Sales(Transactions).csv`
+- **Dashboard:** `dashboard/Coffee Shop Sales.xlsx`
+- **Time Period:** [Add specific date range]
+- **Records:** [Add number of transactions]
+
+### Data Fields
+- Transaction details (date, time, amount)
+- Product information (item types, categories)
+- Customer data (if available)
+- Store performance metrics
 
 ## 🛠️ Tools & Technologies
 
-- **Data Analysis:** Excel, Python (Pandas, NumPy)
-- **Visualization:** Excel Charts, Power BI, Matplotlib, Seaborn
-- **Data Processing:** CSV, Excel, SQL
+- **Data Analysis:** Excel, CSV
+- **Visualization:** Excel Charts, Pivot Tables
+- **Data Processing:** CSV, Excel
 - **Version Control:** Git, GitHub
 
 ## 📊 Skills Demonstrated
@@ -45,16 +53,81 @@ Data-Analysis-Portfolio/
 - Business insights generation
 - Trend analysis
 
-## 📈 Future Projects
+## 🎯 Analysis Objectives
 
-This portfolio is continuously growing. Planned future projects include:
+1. **Sales Performance Analysis**
+   - Revenue trends over time
+   - Peak sales periods identification
+   - Seasonal patterns
+
+2. **Product Analysis**
+   - Best-selling products
+   - Product category performance
+   - Pricing strategy insights
+
+3. **Customer Behavior**
+   - Purchase patterns
+   - Average transaction value
+   - Customer frequency analysis
+
+4. **Operational Insights**
+   - Busiest hours/days
+   - Staff scheduling optimization
+   - Inventory management insights
+
+## 📈 Key Findings
+
+### Sales Trends
+- [Add key finding 1]
+- [Add key finding 2]
+- [Add key finding 3]
+
+### Product Performance
+- [Add key finding 1]
+- [Add key finding 2]
+
+### Customer Insights
+- [Add key finding 1]
+- [Add key finding 2]
+
+## 🛠️ Tools Used
+
+- **Excel:** Dashboard creation, pivot tables, charts
+- **CSV Processing:** Data cleaning and preparation
+- **Analysis Techniques:** Descriptive statistics, trend analysis
+
+## 📁 File Structure
+
+```
+Data-Analysis-Portfolio/
+├── README.md                           # This documentation
+├── data/
+│   └── Coffee Shop Sales(Transactions).csv  # Raw transaction data
+├── dashboard/
+│   └── Coffee Shop Sales.xlsx          # Interactive Excel dashboard
+└── assets/
+    └── project-template.md             # Template for future projects
+```
+
+## 📊 Dashboard Features
+
+The Excel dashboard includes:
+- Executive summary with KPIs
+- Sales trend visualizations
+- Product performance charts
+- Time-based analysis
+- Interactive filters and slicers
+
+## � Future Projects
+
+This portfolio will be expanded with additional data analysis projects including:
 - Customer segmentation analysis
 - Time series forecasting
 - A/B testing analysis
 - Web scraping and API data analysis
 - Machine learning models
 
-## 📞 Contact
+## � Contact
 
 Feel free to reach out if you have any questions about my work or would like to discuss potential opportunities.
 
