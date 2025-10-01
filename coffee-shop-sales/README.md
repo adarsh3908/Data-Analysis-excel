@@ -2,11 +2,13 @@
 
 > **Comprehensive data analysis of coffee shop sales patterns, customer behavior, and business performance insights**
 
-![Coffee Shop Analysis](./images/dashboard-overview.png)
+![Coffee Shop Dashboard Overview](./images/image1.png)
 
 ## 📋 Project Overview
 
 This project provides an in-depth analysis of coffee shop sales data to uncover actionable insights about customer behavior, sales patterns, and business performance. The analysis combines transaction-level data with interactive Excel dashboards to deliver comprehensive business intelligence.
+
+![Coffee Shop Analysis Details](./images/image2.png)
 
 ### 🎯 **Key Objectives**
 - Analyze sales trends and seasonal patterns
