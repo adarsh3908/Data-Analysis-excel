@@ -1,4 +1,43 @@
-# 📊 Advanced Data Analysis Portfolio
+# 📊 Advanced Data Analy## 🚲 **Featured Analysis: Bike Sales Intelligence Dashboard**
+
+**🎯 Excel Mastery Showcase** | **📊 Interactive Dashboard Design** | **🔄 End-to-End Data Processing**
+
+Demonstrating advanced Excel analytics through comprehensive bike sales analysis. This project showcases complete data lifecycle management from raw dataset to interactive business intelligence dashboard using advanced Excel features.
+
+![Bike Sales Dashboard](./Bike sales/images/Screenshot 2025-10-05 221351.png)
+
+### ⭐ **Project Highlights & Technical Excellence**
+
+| **Technical Domain** | **Implementation** | **Business Value** |
+|---------------------|-------------------|-------------------|
+| 📊 **Data Processing** | Raw → Cleaned → Dashboard pipeline | Complete ETL workflow |
+| 🎛️ **Interactive Analytics** | Pivot Tables + Slicers integration | Dynamic filtering & analysis |
+| 📈 **Visualization Design** | 3 professional chart types | Clear insights communication |
+| 🔄 **Workflow Management** | 3-sheet Excel architecture | Organized data methodology |
+| 🎯 **Dashboard Engineering** | Real-time filtering interface | User-friendly business intelligence |
+
+**Status:** ✅ **Portfolio Ready** | **Industry:** Retail Analytics & Sales Intelligence | **Focus:** Excel Advanced Features
+
+### 🛠️ **Technical Implementation Showcase**
+
+#### **Data Architecture & Processing**
+- **Raw Data Management:** Original bike buyers dataset with customer demographics
+- **Data Preprocessing:** Cleaned and standardized dataset for analysis
+- **Excel Engineering:** 3-sheet workbook architecture (Raw → Processed → Dashboard)
+
+#### **Advanced Excel Features Demonstrated**
+- **Pivot Table Mastery:** Complex data aggregation and cross-tabulation
+- **Interactive Slicers:** Dynamic filtering across multiple dimensions
+- **Professional Charts:** Bar, line, and pie charts with custom formatting
+- **Dashboard Design:** Clean, professional layout with KPI presentation
+
+![Interactive Filters](./Bike sales/images/Screenshot 2025-10-05 221405.png)
+*Advanced slicer implementation for interactive data exploration*
+
+![Chart Analysis](./Bike sales/images/Screenshot 2025-10-05 221415.png)
+*Professional chart suite demonstrating visualization expertise*
+
+🔗 **[Explore Complete Bike Sales Analysis →](./Bike sales/)**
 
 > **Showcasing professional business intelligence and data analytics expertise through comprehensive coffee shop performance analysis**
 
@@ -55,15 +94,19 @@ Our comprehensive analysis demonstrates advanced data science application across
 ## 🛠️ **Technical Excellence Demonstrated**
 
 ### **Advanced Excel Mastery**
-- **Dynamic Dashboards:** Interactive filtering across multiple dimensions
+- **Dynamic Dashboards:** Interactive filtering across multiple dimensions (Coffee Shop + Bike Sales)
 - **Statistical Analysis:** Trend identification and growth pattern recognition  
 - **Data Visualization:** Professional-grade charts and KPI presentations
 - **Business Intelligence:** Complex pivot table analysis and data modeling
+- **Slicer Integration:** Advanced filtering mechanisms for user interaction
+- **Multi-Sheet Architecture:** Organized data workflow from raw to dashboard
 
 ### **Professional Methodologies**
-- **ETL Processing:** 46,341 transaction records cleaned and standardized
+- **ETL Processing:** 46,341+ transaction records cleaned and standardized
+- **Data Pipeline Management:** Raw → Processed → Dashboard workflow
 - **Multi-dimensional Analysis:** Location, time, product, and revenue correlation
 - **Performance Metrics:** KPI development and executive reporting
+- **Interactive Design:** User-friendly dashboard interfaces with real-time filtering
 - **Predictive Insights:** Growth trajectory analysis and forecasting foundations
 
 ## 📁 **Portfolio Architecture & Data Engineering**
@@ -71,15 +114,24 @@ Our comprehensive analysis demonstrates advanced data science application across
 ```
 📊 Data-Analysis-Portfolio/
 ├── 📄 README.md                         # Portfolio overview & professional summary
-└── ☕ coffee-shop-sales/                # Complete business intelligence project
-    ├── 📊 README.md                    # Comprehensive analysis documentation
-    ├── 📁 data/                        # 46,341 transaction dataset
-    │   └── Coffee Shop Sales(Transactions).csv
-    ├── 🎨 dashboard/                   # Interactive Excel dashboard
-    │   └── Coffee Shop Sales.xlsx
-    └── 🖼️ images/                      # Professional visualizations
-        ├── image1.png                  # Revenue & operational analysis
-        └── image2.png                  # Product performance breakdown
+├── ☕ coffee-shop-sales/                # Enterprise business intelligence project
+│   ├── 📊 README.md                    # Comprehensive analysis documentation
+│   ├── 📁 data/                        # 46,341 transaction dataset
+│   │   └── Coffee Shop Sales(Transactions).csv
+│   ├── 🎨 dashboard/                   # Interactive Excel dashboard
+│   │   └── Coffee Shop Sales.xlsx
+│   └── 🖼️ images/                      # Professional visualizations
+│       ├── image1.png                  # Revenue & operational analysis
+│       └── image2.png                  # Product performance breakdown
+└── 🚲 Bike sales/                      # Excel mastery demonstration project
+    ├── 📊 README.md                    # Technical implementation guide
+    ├── 📊 Excel Project Dataset (1).xlsx # 3-sheet workbook (Raw/Processed/Dashboard)
+    ├── 📁 Excel Project Dataset(bike_buyers).csv # Original dataset
+    ├── 📁 Excel Project Dataset(Working Sheet).csv # Preprocessed data
+    └── 🖼️ images/                      # Dashboard screenshots
+        ├── Screenshot 2025-10-05 221351.png # Complete dashboard
+        ├── Screenshot 2025-10-05 221405.png # Interactive filters
+        └── Screenshot 2025-10-05 221415.png # Chart analysis
 ```
 
 ## 💼 **Core Competencies & Professional Impact**
@@ -96,12 +148,25 @@ Our comprehensive analysis demonstrates advanced data science application across
 ## 🏆 **Quantifiable Professional Achievements**
 
 ### **Project Success Metrics**
+
+#### **Coffee Shop Business Intelligence**
 - ✅ **46,341 transactions** processed with 100% data integrity
 - ✅ **$207,440.89 revenue** analyzed for strategic optimization
 - ✅ **3 business locations** integrated into unified intelligence platform
 - ✅ **15 top products** identified with performance ranking and revenue attribution
 - ✅ **105% growth rate** tracked and validated across 6-month period
-- ✅ **Interactive dashboard** with real-time filtering and dynamic analysis
+
+#### **Bike Sales Analytics Excellence**
+- ✅ **Multi-dataset processing** from raw to clean analytics-ready format
+- ✅ **3-sheet Excel architecture** demonstrating organized workflow methodology
+- ✅ **Interactive slicer implementation** for dynamic data exploration
+- ✅ **Professional dashboard design** with multiple chart types and KPIs
+- ✅ **Complete documentation** with visual assets and technical guides
+
+#### **Combined Portfolio Impact**
+- ✅ **2 complete projects** showcasing versatility across business domains
+- ✅ **Interactive dashboards** with real-time filtering and dynamic analysis
+- ✅ **End-to-end expertise** from data cleaning to executive presentation
 
 ### **Business Intelligence Deliverables**
 - 📈 **Revenue Trend Analysis:** Month-over-month growth pattern identification
