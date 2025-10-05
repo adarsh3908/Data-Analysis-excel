@@ -8,20 +8,6 @@
 
 ![Coffee Shop Dashboard](./coffee-shop-sales/images/image1.png)
 
-### ⭐ **Project Highlights & Business Impact**
-
-| **Metric** | **Achievement** | **Business Value** |
-|------------|----------------|-------------------|
-| 📊 **Data Volume** | 46,341 transactions analyzed | Comprehensive market insights |
-| 💰 **Revenue Analysis** | $207,440.89 total performance | Strategic revenue optimization |
-| 📈 **Growth Tracking** | 105% growth (Jan-Jun) | Trend identification & forecasting |
-| 🏢 **Multi-Location** | 3 strategic locations | Scalable business intelligence |
-| ☕ **Product Intelligence** | 15 top performers identified | Data-driven inventory optimization |
-
-**Status:** ✅ **Production Deployed** | **Industry:** Retail Analytics & Food Service | **ROI:** Measurable operational improvements
-
-🔗 **[Explore Complete Analysis →](./coffee-shop-sales/)**
-
 ## 🚲 **Featured Analysis: Bike Sales Intelligence Dashboard**
 
 **🎯 Excel Mastery Showcase** | **📊 Interactive Dashboard Design** | **🔄 End-to-End Data Processing**
