@@ -1,20 +1,26 @@
 # 📊 Advanced Data Analysis Portfolio
 
-> **Showcasing professional business intelligence and data analy## 📈 **Advanc## 📈 **Advanced Analytics Showcase**
-
-### 🎯 **Strategic Business Intelligence**
-
-Our comprehensive analysis demonstrates advanced data science application across:lytics Showcase**
-
-### 🎯 **Strategic Business Intelligence**
-
-Our comprehensive analysis demonstrates advanced data science application across:xpertise through comprehensive coffee shop performance analysis**
+> **Showcasing professional business intelligence and data analytics expertise through comprehensive analysis projects**
 
 ## 🚀 **Featured Analysis: Multi-Location Coffee Shop Business Intelligence**
 
 **💼 Enterprise-Level Analytics** | **📈 Advanced Excel Mastery** | **📊 Interactive Business Dashboards**
 
 ![Coffee Shop Dashboard](./coffee-shop-sales/images/image1.png)
+
+### ⭐ **Project Highlights & Business Impact**
+
+| **Metric** | **Achievement** | **Business Value** |
+|------------|----------------|-------------------|
+| 📊 **Data Volume** | 46,341 transactions analyzed | Comprehensive market insights |
+| 💰 **Revenue Analysis** | $207,440.89 total performance | Strategic revenue optimization |
+| � **Growth Tracking** | 105% growth (Jan-Jun) | Trend identification & forecasting |
+| 🏢 **Multi-Location** | 3 strategic locations | Scalable business intelligence |
+| ☕ **Product Intelligence** | 15 top performers identified | Data-driven inventory optimization |
+
+**Status:** ✅ **Production Deployed** | **Industry:** Retail Analytics & Food Service | **ROI:** Measurable operational improvements
+
+🔗 **[Explore Complete Analysis →](./coffee-shop-sales/)**
 
 ## 🚲 **Featured Analysis: Bike Sales Intelligence Dashboard**
 
@@ -36,60 +42,7 @@ Demonstrating advanced Excel analytics through comprehensive bike sales analysis
 
 **Status:** ✅ **Portfolio Ready** | **Industry:** Retail Analytics & Sales Intelligence | **Focus:** Excel Advanced Features
 
-| **Technical Domain** | **Implementation** | **Business Value** |
-|---------------------|-------------------|-------------------|
-| 📊 **Data Processing** | Raw → Cleaned → Dashboard pipeline | Complete ETL workflow |
-| 🎛️ **Interactive Analytics** | Pivot Tables + Slicers integration | Dynamic filtering & analysis |
-| 📈 **Visualization Design** | 3 professional chart types | Clear insights communication |
-| 🔄 **Workflow Management** | 3-sheet Excel architecture | Organized data methodology |
-| 🎯 **Dashboard Engineering** | Real-time filtering interface | User-friendly business intelligence |
-
-**Status:** ✅ **Portfolio Ready** | **Industry:** Retail Analytics & Sales Intelligence | **Focus:** Excel Advanced Features
-
-### 🛠️ **Technical Implementation Showcase**
-
-#### **Data Architecture & Processing**
-- **Raw Data Management:** Original bike buyers dataset with customer demographics
-- **Data Preprocessing:** Cleaned and standardized dataset for analysis
-- **Excel Engineering:** 3-sheet workbook architecture (Raw → Processed → Dashboard)
-
-#### **Advanced Excel Features Demonstrated**
-- **Pivot Table Mastery:** Complex data aggregation and cross-tabulation
-- **Interactive Slicers:** Dynamic filtering across multiple dimensions
-- **Professional Charts:** Bar, line, and pie charts with custom formatting
-- **Dashboard Design:** Clean, professional layout with KPI presentation
-
-🔗 **[Explore Complete Bike Sales Analysis →](./Bike sales/)**
-
-> **Showcasing professional business intelligence and data analytics expertise through comprehensive coffee shop performance analysis**
-
-## 🚀 **Featured Analysis: Multi-Location Coffee Shop Business Intelligence**
-
-**💼 Enterprise-Level Analytics** | **📈 Advanced Excel Mastery** | **📊 Interactive Business Dashboards**
-
-![Coffee Shop Dashboard](./coffee-shop-sales/images/image1.png)
-
-### ⭐ **Project Highlights & Business Impact**
-
-| **Metric** | **Achievement** | **Business Value** |
-|------------|----------------|-------------------|
-| 📊 **Data Volume** | 46,341 transactions analyzed | Comprehensive market insights |
-| 💰 **Revenue Analysis** | $207,440.89 total performance | Strategic revenue optimization |
-| 📈 **Growth Tracking** | 105% growth (Jan-Jun) | Trend identification & forecasting |
-| 🏢 **Multi-Location** | 3 strategic locations | Scalable business intelligence |
-| ☕ **Product Intelligence** | 15 top performers identified | Data-driven inventory optimization |
-
-**Status:** ✅ **Production Deployed** | **Industry:** Retail Analytics & Food Service | **ROI:** Measurable operational improvements
-
-🔗 **[Explore Complete Analysis →](./coffee-shop-sales/)**
-
-## � **Featured Analysis: Bike Sales Dashboard**
-
-Explore a hands-on Excel dashboard built from a public bike buyers dataset. This project showcases end-to-end Excel analytics: raw data, preprocessing, and an interactive dashboard using Pivot Tables, Slicers, and professional charts.
-
-![Bike Sales Dashboard](./Bike sales/images/Screenshot 2025-10-05 221351.png)
-
-### 🔍 **Project Artifacts & Data Pipeline**
+###  **Project Artifacts & Data Pipeline**
 
 #### **Dataset Management**
 - Original dataset: `Bike sales/dataset/Excel Project Dataset(bike_buyers).csv`
@@ -99,12 +52,11 @@ Explore a hands-on Excel dashboard built from a public bike buyers dataset. This
 - Full Excel workbook (3 sheets: raw, preprocessed, dashboard): `Bike sales/Excel Project Dataset (1).xlsx`
 - Visual assets: `Bike sales/images/` (three screenshots showing the dashboard, filters, and charts)
 
-🔗 **[Explore Bike Sales Analysis →](./Bike sales/)**
+🔗 **[Explore Complete Bike Sales Analysis →](./Bike sales/)**
 
-## �📈 **Advanced Analytics Showcase**
+## 📈 **Advanced Analytics Showcase**
 
 ### 🎯 **Strategic Business Intelligence**
-![Product Performance Analysis](./coffee-shop-sales/images/image2.png)
 
 Our comprehensive analysis demonstrates advanced data science application across:
 
