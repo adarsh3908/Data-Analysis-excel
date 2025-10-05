@@ -22,7 +22,22 @@
 
 🔗 **[Explore Complete Analysis →](./coffee-shop-sales/)**
 
-## 📈 **Advanced Analytics Showcase**
+## � **Featured Analysis: Bike Sales Dashboard**
+
+Explore a hands-on Excel dashboard built from a public bike buyers dataset. This project showcases end-to-end Excel analytics: raw data, preprocessing, and an interactive dashboard using Pivot Tables, Slicers, and professional charts.
+
+![Bike Sales Dashboard](./Bike sales/images/Screenshot 2025-10-05 221351.png)
+
+### 🔍 Project artifacts
+
+- Original dataset: `Bike sales/Excel Project Dataset(bike_buyers).csv`
+- Preprocessed CSV used for analysis: `Bike sales/Excel Project Dataset(Working Sheet).csv`
+- Full Excel workbook (3 sheets: raw, preprocessed, dashboard): `Bike sales/Excel Project Dataset (1).xlsx`
+- Visual assets: `Bike sales/images/` (three screenshots showing the dashboard, filters, and charts)
+
+🔗 **[Explore Bike Sales Analysis →](./Bike sales/)**
+
+## �📈 **Advanced Analytics Showcase**
 
 ### 🎯 **Strategic Business Intelligence**
 ![Product Performance Analysis](./coffee-shop-sales/images/image2.png)
