@@ -67,10 +67,13 @@ Explore a hands-on Excel dashboard built from a public bike buyers dataset. This
 
 ![Bike Sales Dashboard](./Bike sales/images/Screenshot 2025-10-05 221351.png)
 
-### 🔍 Project artifacts
+### 🔍 **Project Artifacts & Data Pipeline**
 
-- Original dataset: `Bike sales/Excel Project Dataset(bike_buyers).csv`
-- Preprocessed CSV used for analysis: `Bike sales/Excel Project Dataset(Working Sheet).csv`
+#### **Dataset Management**
+- Original dataset: `Bike sales/dataset/Excel Project Dataset(bike_buyers).csv`
+- Preprocessed CSV used for analysis: `Bike sales/dataset/Excel Project Dataset(Working Sheet).csv`
+
+#### **Analysis & Visualization**
 - Full Excel workbook (3 sheets: raw, preprocessed, dashboard): `Bike sales/Excel Project Dataset (1).xlsx`
 - Visual assets: `Bike sales/images/` (three screenshots showing the dashboard, filters, and charts)
 
@@ -126,8 +129,9 @@ Our comprehensive analysis demonstrates advanced data science application across
 └── 🚲 Bike sales/                      # Excel mastery demonstration project
     ├── 📊 README.md                    # Technical implementation guide
     ├── 📊 Excel Project Dataset (1).xlsx # 3-sheet workbook (Raw/Processed/Dashboard)
-    ├── 📁 Excel Project Dataset(bike_buyers).csv # Original dataset
-    ├── 📁 Excel Project Dataset(Working Sheet).csv # Preprocessed data
+    ├── 📁 dataset/                     # Organized data files
+    │   ├── Excel Project Dataset(bike_buyers).csv # Original dataset
+    │   └── Excel Project Dataset(Working Sheet).csv # Preprocessed data
     └── 🖼️ images/                      # Dashboard screenshots
         ├── Screenshot 2025-10-05 221351.png # Complete dashboard
         ├── Screenshot 2025-10-05 221405.png # Interactive filters
@@ -218,3 +222,7 @@ Passionate about transforming complex business data into actionable intelligence
 ---
 
 *This portfolio demonstrates commitment to analytical excellence and proven ability to drive business value through sophisticated data analysis and strategic insight generation.*
+
+---
+
+**Building one project at a time by Adarsh Prakash Singh**

@@ -4,8 +4,11 @@ This folder contains an end-to-end Excel analysis and dashboard built from a bik
 
 ## Files
 
-- `Excel Project Dataset(bike_buyers).csv` — Original raw dataset (bike buyers)
-- `Excel Project Dataset(Working Sheet).csv` — Preprocessed CSV used for pivot tables and charts
+### Dataset
+- `dataset/Excel Project Dataset(bike_buyers).csv` — Original raw dataset (bike buyers)
+- `dataset/Excel Project Dataset(Working Sheet).csv` — Preprocessed CSV used for pivot tables and charts
+
+### Analysis
 - `Excel Project Dataset (1).xlsx` — Full Excel workbook containing three sheets: raw data, preprocessed data, and the dashboard with PivotTables and Slicers
 
 ## Images
@@ -36,11 +39,12 @@ The `images/` folder includes three screenshots:
 1. Open `Excel Project Dataset (1).xlsx` in Microsoft Excel (desktop recommended for slicer interactivity).
 2. Go to the `Dashboard` sheet to view KPIs, charts, and use the slicers to interactively filter the analysis.
 3. Inspect the `Preprocessed` sheet to see cleaning steps and calculated fields used by the PivotTables.
+4. Review `dataset/` folder for original and preprocessed CSV files.
 
 ## Notes
 
 - The workbook uses standard Excel PivotTables and Slicers — no macros or VBA.
-- If you want a CSV-only workflow, use `Excel Project Dataset(Working Sheet).csv` as the source for other tools.
+- If you want a CSV-only workflow, use `dataset/Excel Project Dataset(Working Sheet).csv` as the source for other tools.
 
 ---
 
