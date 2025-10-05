@@ -12,9 +12,17 @@ This folder contains an end-to-end Excel analysis and dashboard built from a bik
 
 The `images/` folder includes three screenshots:
 
-1. `Screenshot 2025-10-05 221351.png` — Complete dashboard view (all KPIs and visual layout)
-2. `Screenshot 2025-10-05 221405.png` — Filters and Slicers used for interactive analysis
-3. `Screenshot 2025-10-05 221415.png` — Detail view showing the three charts used on the dashboard
+### 1. Complete Dashboard View
+![Complete Dashboard](./images/Screenshot%202025-10-05%20221351.png)
+*Complete dashboard showing all KPIs and visual layout*
+
+### 2. Interactive Filters and Slicers
+![Filters and Slicers](./images/Screenshot%202025-10-05%20221405.png)
+*Filters and Slicers used for interactive analysis*
+
+### 3. Dashboard Charts Detail
+![Three Charts](./images/Screenshot%202025-10-05%20221415.png)
+*Detail view showing the three charts used on the dashboard*
 
 ## How it was built
 
