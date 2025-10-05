@@ -28,7 +28,7 @@
 
 Demonstrating advanced Excel analytics through comprehensive bike sales analysis. This project showcases complete data lifecycle management from raw dataset to interactive business intelligence dashboard using advanced Excel features.
 
-![Bike Sales Dashboard](./Bike sales/images/Screenshot 2025-10-05 221351.png)
+![Bike Sales Dashboard](./Bike%20sales/images/Screenshot%202025-10-05%20221351.png)
 
 ### ⭐ **Project Highlights & Technical Excellence**
 
