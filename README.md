@@ -22,6 +22,23 @@
 
 🔗 **[Explore Complete Analysis →](./coffee-shop-sales/)**
 
+## ☕ **Featured Analysis: Coffee Orders Analysis Dashboard**
+
+**📊 Order Intelligence** | **🎯 Data-Driven Insights** | **🎨 Interactive Visualizations**
+
+Comprehensive analysis of coffee orders data showcasing Excel dashboard design with interactive visualizations to understand ordering patterns, customer behavior, and business metrics.
+
+### ⭐ **Project Highlights**
+
+- **📁 Data File:** Raw coffee orders dataset with transaction details
+- **📊 Dashboard:** Interactive Excel workbook with comprehensive analysis
+- **🖼️ Visualizations:** 4 professional screenshots showing dashboard insights
+- **🎯 Focus:** Order patterns, product performance, and business analytics
+
+**Status:** ✅ **Portfolio Ready** | **Industry:** Coffee & Retail Analytics | **Focus:** Excel Dashboard Design
+
+🔗 **[Explore Coffee Orders Analysis →](./coffee-orders-project/)**
+
 ## 🚲 **Featured Analysis: Bike Sales Intelligence Dashboard**
 
 **🎯 Excel Mastery Showcase** | **📊 Interactive Dashboard Design** | **🔄 End-to-End Data Processing**
@@ -100,6 +117,17 @@ Our comprehensive analysis demonstrates advanced data science application across
 │   └── 🖼️ images/                      # Professional visualizations
 │       ├── image1.png                  # Revenue & operational analysis
 │       └── image2.png                  # Product performance breakdown
+├── ☕ coffee-orders-project/            # Coffee orders analysis project
+│   ├── 📊 README.md                    # Project documentation
+│   ├── 📁 data/                        # Coffee orders dataset
+│   │   └── coffeeOrdersData.xlsx
+│   ├── 🎨 dashboard/                   # Analysis & dashboard workbook
+│   │   └── coffeeOrdersProject.xlsx
+│   └── 🖼️ images/                      # Dashboard screenshots
+│       ├── Screenshot 2025-11-16 140704.png
+│       ├── Screenshot 2025-11-16 140714.png
+│       ├── Screenshot 2025-11-16 140729.png
+│       └── Screenshot 2025-11-16 140747.png
 └── 🚲 Bike sales/                      # Excel mastery demonstration project
     ├── 📊 README.md                    # Technical implementation guide
     ├── 📊 Excel Project Dataset (1).xlsx # 3-sheet workbook (Raw/Processed/Dashboard)
@@ -142,9 +170,10 @@ Our comprehensive analysis demonstrates advanced data science application across
 - ✅ **Complete documentation** with visual assets and technical guides
 
 #### **Combined Portfolio Impact**
-- ✅ **2 complete projects** showcasing versatility across business domains
+- ✅ **3 complete projects** showcasing versatility across multiple business domains
 - ✅ **Interactive dashboards** with real-time filtering and dynamic analysis
 - ✅ **End-to-end expertise** from data cleaning to executive presentation
+- ✅ **Diverse analytics** covering retail, sales, and operations
 
 ### **Business Intelligence Deliverables**
 - 📈 **Revenue Trend Analysis:** Month-over-month growth pattern identification
