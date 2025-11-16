@@ -18,10 +18,21 @@ A detailed analysis of coffee orders using advanced Excel features including dat
 
 The `images/` folder contains 4 dashboard screenshots showcasing the analysis:
 
-1. `Screenshot 2025-11-16 140704.png` — Dashboard overview and KPIs
-2. `Screenshot 2025-11-16 140714.png` — Order analysis and trends
-3. `Screenshot 2025-11-16 140729.png` — Product performance metrics
-4. `Screenshot 2025-11-16 140747.png` — Additional insights and visualizations
+### 1. Dashboard Overview and KPIs
+![Dashboard Overview](./images/Screenshot%202025-11-16%20140704.png)
+*Main dashboard showing key performance indicators and order metrics*
+
+### 2. Order Analysis and Trends
+![Order Analysis](./images/Screenshot%202025-11-16%20140714.png)
+*Order patterns and trend analysis*
+
+### 3. Product Performance Metrics
+![Product Performance](./images/Screenshot%202025-11-16%20140729.png)
+*Product-level analysis and performance metrics*
+
+### 4. Additional Insights and Visualizations
+![Additional Insights](./images/Screenshot%202025-11-16%20140747.png)
+*Comprehensive insights and additional business visualizations*
 
 ## How to Use
 

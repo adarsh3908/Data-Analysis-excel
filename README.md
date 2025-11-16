@@ -28,6 +28,8 @@
 
 Comprehensive analysis of coffee orders data showcasing Excel dashboard design with interactive visualizations to understand ordering patterns, customer behavior, and business metrics.
 
+![Coffee Orders Dashboard](./coffee-orders-project/images/Screenshot%202025-11-16%20140704.png)
+
 ### ⭐ **Project Highlights**
 
 - **📁 Data File:** Raw coffee orders dataset with transaction details
